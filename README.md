@@ -1,8 +1,8 @@
-# [How to Travel China Blog](https://howtotravalchina.com)
+# [How to Travel China Blog](https://howtotravelchina.com)
 
-![China Travel Banner](/images/china-travel.png)
+![China Travel Banner](./images/china-travel.png)
 
-Welcome to the "[How to Travel China](https://howtotravalchina.com)" blog! This blog aims to provide comprehensive, in-depth, and novel travel guides for exploring the diverse landscapes, rich culture, and culinary delights of China.
+Welcome to the "[How to Travel China](https://howtotravelchina.com)" blog! This blog aims to provide comprehensive, in-depth, and novel travel guides for exploring the diverse landscapes, rich culture, and culinary delights of China.
 
 ## 🌟 Features
 
