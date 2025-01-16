@@ -6,6 +6,7 @@ Welcome to the "[How to Travel China](https://howtotravelchina.com)" blog! This 
 
 ## 🌟 Features
 
+- **Special Offers**: Provide the latest travel products and special offers.
 - **Voyage Plans**: Unique itineraries for both popular and off-the-beaten-path destinations
 - **Travel Tips**: Practical advice for navigating China's visa policy, transportation, accommodation, and cultural norms
 - **Food & Cuisine**: Explore regional specialties and hidden culinary gems
