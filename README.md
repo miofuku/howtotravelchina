@@ -1,6 +1,6 @@
 # [How to Travel China](https://howtotravelchina.com)
 
-![China Travel Banner](./images/china-travel.png)
+![China Travel Banner](./images/homepage.png)
 
 Welcome to the "[How to Travel China](https://howtotravelchina.com)"! This site aims to provide comprehensive, in-depth, and novel travel guides for exploring the diverse landscapes, rich culture, and culinary delights of China.
 
